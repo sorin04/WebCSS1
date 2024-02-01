@@ -1,0 +1,22 @@
+body{
+    color: blue;
+}
+h1{
+    text-align: center;
+    background-size: 50px;
+    font-size: 50px;
+
+}
+p{
+    background: chartreuse;
+
+}
+
+p1{
+    background: cornflowerblue;
+    background-size: 20px;
+    font-size: 50px;
+    font-style: italic;
+    height: 20px;
+    border-bottom: chartreuse;
+}
