@@ -1,22 +1,35 @@
-body{
-    color: blue;
+body {
+    color: black;
 }
-h1{
+
+h1 {
     text-align: center;
-    background-size: 50px;
-    font-size: 50px;
-
-}
-p{
-    background: chartreuse;
-
+    font-size: 24px;
 }
 
-p1{
-    background: cornflowerblue;
-    background-size: 20px;
-    font-size: 50px;
-    font-style: italic;
-    height: 20px;
-    border-bottom: chartreuse;
+div p {
+    color: blue;
+    font-size: 18px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+
+}
+
+.par {
+    color: blue;
+    background-color: yellow;
+    border-color: green;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+ol li {
+    background-color: lightblue;
+}
+
+ul li {
+    background-color: lightgreen;
 }
